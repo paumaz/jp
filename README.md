@@ -1,4 +1,4 @@
-== Zadania ze srodowiska programisty
+ == Zadania ze srodowiska programisty
 
 Ala ma kota
 
