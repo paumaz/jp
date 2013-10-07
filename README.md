@@ -1,7 +1,7 @@
 ##Zadania ze srodowiska programisty
 
 
-Tekst wpisujemy q notacji [Markdown] [podstawy markdown].
+Tekst wpisujemy w notacji [Markdown] [podstawy markdown].
 
 Aby zmienic haslo nalezy na terminalu wpisac:
 
