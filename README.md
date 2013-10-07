@@ -10,5 +10,5 @@ Prosty program w C:
 
 ***c
 main() {
-	print("hello world";
+	printf("hello world";
 }
