@@ -1,4 +1,7 @@
-## Zadania ze srodowiska programisty
+##Zadania ze srodowiska programisty
+
+
+Tekst wpisujemy q notacji [Markdown]
 
 Aby zmienic haslo nalezy na terminalu wpisac:
 
