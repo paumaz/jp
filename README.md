@@ -1,5 +1,8 @@
- ## Zadania ze srodowiska programisty
+## Zadania ze srodowiska programisty
 
-Ala ma kota
+Aby zmienic haslo nalezy na terminalu wpisac"
 
+***sh
+password
+***
 
