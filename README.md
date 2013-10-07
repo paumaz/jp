@@ -3,12 +3,12 @@
 Aby zmienic haslo nalezy na terminalu wpisac:
 
 ***sh
-password
+passwd
 ***
 
 Prosty program w C:
 
 ***c
 main() {
-printf("hello world";
+	printf("hello world";
 }
